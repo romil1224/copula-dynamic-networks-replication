@@ -1,0 +1,133 @@
+Year,Jan31_TradingDay,Feb1_TradingDay,Feb2_TradingDay,Close_Jan31,Close_Feb1,Close_Feb2,Return_Jan31_to_Feb1,Return_Feb1_to_Feb2
+2014,2014-01-31,2014-01-31,2014-02-03,"Ticker
+^INDIAVIX    16.82
+Name: 2014-01-31 00:00:00, dtype: float64","Ticker
+^INDIAVIX    16.82
+Name: 2014-01-31 00:00:00, dtype: float64","Ticker
+^INDIAVIX    18.27
+Name: 2014-02-03 00:00:00, dtype: float64","Ticker
+^INDIAVIX    0.0
+Name: 2014-01-31 00:00:00, dtype: float64","Ticker
+^INDIAVIX    0.086207
+dtype: float64"
+2015,2015-01-30,2015-02-02,2015-02-02,"Ticker
+^INDIAVIX    20.17
+Name: 2015-01-30 00:00:00, dtype: float64","Ticker
+^INDIAVIX    20.41
+Name: 2015-02-02 00:00:00, dtype: float64","Ticker
+^INDIAVIX    20.41
+Name: 2015-02-02 00:00:00, dtype: float64","Ticker
+^INDIAVIX    0.011899
+dtype: float64","Ticker
+^INDIAVIX    0.0
+Name: 2015-02-02 00:00:00, dtype: float64"
+2016,2016-02-01,2016-02-01,2016-02-02,"Ticker
+^INDIAVIX    17.889999
+Name: 2016-02-01 00:00:00, dtype: float64","Ticker
+^INDIAVIX    17.889999
+Name: 2016-02-01 00:00:00, dtype: float64","Ticker
+^INDIAVIX    18.040001
+Name: 2016-02-02 00:00:00, dtype: float64","Ticker
+^INDIAVIX    0.0
+Name: 2016-02-01 00:00:00, dtype: float64","Ticker
+^INDIAVIX    0.008385
+dtype: float64"
+2017,2017-01-31,2017-02-01,2017-02-02,"Ticker
+^INDIAVIX    16.83
+Name: 2017-01-31 00:00:00, dtype: float64","Ticker
+^INDIAVIX    13.97
+Name: 2017-02-01 00:00:00, dtype: float64","Ticker
+^INDIAVIX    13.52
+Name: 2017-02-02 00:00:00, dtype: float64","Ticker
+^INDIAVIX   -0.169935
+dtype: float64","Ticker
+^INDIAVIX   -0.032212
+dtype: float64"
+2018,2018-01-31,2018-02-01,2018-02-02,"Ticker
+^INDIAVIX    15.93
+Name: 2018-01-31 00:00:00, dtype: float64","Ticker
+^INDIAVIX    14.11
+Name: 2018-02-01 00:00:00, dtype: float64","Ticker
+^INDIAVIX    15.25
+Name: 2018-02-02 00:00:00, dtype: float64","Ticker
+^INDIAVIX   -0.11425
+dtype: float64","Ticker
+^INDIAVIX    0.080794
+dtype: float64"
+2019,2019-01-31,2019-02-01,2019-02-01,"Ticker
+^INDIAVIX    17.120001
+Name: 2019-01-31 00:00:00, dtype: float64","Ticker
+^INDIAVIX    15.72
+Name: 2019-02-01 00:00:00, dtype: float64","Ticker
+^INDIAVIX    15.72
+Name: 2019-02-01 00:00:00, dtype: float64","Ticker
+^INDIAVIX   -0.081776
+dtype: float64","Ticker
+^INDIAVIX    0.0
+Name: 2019-02-01 00:00:00, dtype: float64"
+2020,2020-01-31,2020-01-31,2020-02-03,"Ticker
+^INDIAVIX    17.370001
+Name: 2020-01-31 00:00:00, dtype: float64","Ticker
+^INDIAVIX    17.370001
+Name: 2020-01-31 00:00:00, dtype: float64","Ticker
+^INDIAVIX    15.78
+Name: 2020-02-03 00:00:00, dtype: float64","Ticker
+^INDIAVIX    0.0
+Name: 2020-01-31 00:00:00, dtype: float64","Ticker
+^INDIAVIX   -0.091537
+dtype: float64"
+2021,2021-02-01,2021-02-01,2021-02-02,"Ticker
+^INDIAVIX    23.32
+Name: 2021-02-01 00:00:00, dtype: float64","Ticker
+^INDIAVIX    23.32
+Name: 2021-02-01 00:00:00, dtype: float64","Ticker
+^INDIAVIX    23.35
+Name: 2021-02-02 00:00:00, dtype: float64","Ticker
+^INDIAVIX    0.0
+Name: 2021-02-01 00:00:00, dtype: float64","Ticker
+^INDIAVIX    0.001286
+dtype: float64"
+2022,2022-01-31,2022-02-01,2022-02-02,"Ticker
+^INDIAVIX    21.950001
+Name: 2022-01-31 00:00:00, dtype: float64","Ticker
+^INDIAVIX    19.98
+Name: 2022-02-01 00:00:00, dtype: float64","Ticker
+^INDIAVIX    18.65
+Name: 2022-02-02 00:00:00, dtype: float64","Ticker
+^INDIAVIX   -0.089749
+dtype: float64","Ticker
+^INDIAVIX   -0.066567
+dtype: float64"
+2023,2023-01-31,2023-02-01,2023-02-02,"Ticker
+^INDIAVIX    16.879999
+Name: 2023-01-31 00:00:00, dtype: float64","Ticker
+^INDIAVIX    16.780001
+Name: 2023-02-01 00:00:00, dtype: float64","Ticker
+^INDIAVIX    15.73
+Name: 2023-02-02 00:00:00, dtype: float64","Ticker
+^INDIAVIX   -0.005924
+dtype: float64","Ticker
+^INDIAVIX   -0.062575
+dtype: float64"
+2024,2024-01-31,2024-02-01,2024-02-02,"Ticker
+^INDIAVIX    16.049999
+Name: 2024-01-31 00:00:00, dtype: float64","Ticker
+^INDIAVIX    14.46
+Name: 2024-02-01 00:00:00, dtype: float64","Ticker
+^INDIAVIX    14.7
+Name: 2024-02-02 00:00:00, dtype: float64","Ticker
+^INDIAVIX   -0.099065
+dtype: float64","Ticker
+^INDIAVIX    0.016597
+dtype: float64"
+2025,2025-01-31,2025-01-31,2025-02-03,"Ticker
+^INDIAVIX    16.25
+Name: 2025-01-31 00:00:00, dtype: float64","Ticker
+^INDIAVIX    16.25
+Name: 2025-01-31 00:00:00, dtype: float64","Ticker
+^INDIAVIX    14.35
+Name: 2025-02-03 00:00:00, dtype: float64","Ticker
+^INDIAVIX    0.0
+Name: 2025-01-31 00:00:00, dtype: float64","Ticker
+^INDIAVIX   -0.116923
+dtype: float64"
